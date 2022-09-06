@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SheetRename", "SheetRename.csproj", "{0FCE66E2-2745-441A-8C27-B4368D72CE98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FCE66E2-2745-441A-8C27-B4368D72CE98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FCE66E2-2745-441A-8C27-B4368D72CE98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FCE66E2-2745-441A-8C27-B4368D72CE98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FCE66E2-2745-441A-8C27-B4368D72CE98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A8B0E39-9BBA-4CA6-A984-0408D6CCD43C}
+	EndGlobalSection
+EndGlobal
